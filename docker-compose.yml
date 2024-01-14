@@ -1,0 +1,26 @@
+version: "3.8"
+
+services:
+  packwiz:
+    image: getchoo/packwiz-serve
+    ports:
+      - 8765:8080
+    volumes:
+      - ./pack:/data
+  devserver:
+    image: itzg/minecraft-server
+    restart: unless-stopped
+    tty: true
+    stdin_open: true
+    ports:
+      - 25565:25565
+    depends_on:
+      - packwiz
+    environment:
+      EULA: TRUE
+      TYPE: QUILT
+      MEMORY: 6G
+      VERSION: 1.20.1
+      PACKWIZ_URL: http://packwiz:8080/pack.toml
+    volumes:
+      - ./mcdata:/data

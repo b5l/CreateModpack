@@ -1,0 +1,13 @@
+name = "AutoTools"
+filename = "autotools-1.7-fabric-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zgVJyCgK/versions/lUpEWkQv/autotools-1.7-fabric-1.20.jar"
+hash-format = "sha1"
+hash = "a119c3db000c692d888f1265c17331ec6c3de720"
+
+[update]
+[update.modrinth]
+mod-id = "zgVJyCgK"
+version = "lUpEWkQv"
