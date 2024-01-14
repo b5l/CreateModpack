@@ -136,11 +136,6 @@ hash = "f27ad5ca187c5dc5bb410a21eebc10ae03e65e58ceb0e2981f5dafac350c6b07"
 metafile = true
 
 [[files]]
-file = "mods/packetauth.pw.toml"
-hash = "52f1a7be66b5ccf2b65413f5742ddb1ca6185898be913f1bee7ddf33501cd05e"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "73fa0f7015f038379155c47431a2be5c33ca4871da9f5d1c9f9499868fc13c53"
 metafile = true
