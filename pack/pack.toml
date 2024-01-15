@@ -1,12 +1,12 @@
-name = "Create Modpack"
+name = "Pack 2"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2f46f55a00257868fa6f3a8eef3adaf590d5fe9622535bf1c7b0b3c8f49ea4d1"
+hash = "98181223bc1a6b570e24ec2b7f9453ce87ee9ad4535e7907ee265d59f211152e"
 
 [versions]
+fabric = "0.15.4"
 minecraft = "1.20.1"
-quilt = "0.23.0"
