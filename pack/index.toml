@@ -36,6 +36,11 @@ hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "3fa7edc6717f0509c9fb82eb29adaf08ffbba6f733becb0a4085d71e1e43eb01"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
 metafile = true
 
 [[files]]
