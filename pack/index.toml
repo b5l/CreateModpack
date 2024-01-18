@@ -21,6 +21,11 @@ hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
 
 [[files]]
+file = "mods/block-blocker.pw.toml"
+hash = "7e80436b3e4082fbc242fefafd9013a224c13c1cdb8770f0502af9a23c457ae4"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "c4ee3c1cd7ce65505a5aa2b2e66ed816dfde972e8af736e211314ba66d40a01a"
 metafile = true
