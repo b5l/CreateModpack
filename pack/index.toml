@@ -171,6 +171,11 @@ hash = "ff7f9a78ddd22c15bce7423ace021b91fec68e0eb3e323cc84116b47deca8e93"
 metafile = true
 
 [[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "4c3dc1c93ec5be222f504f66c251fbb17a12f1bba04d59b1b34d959ee9d04e30"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
