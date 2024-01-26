@@ -76,6 +76,11 @@ hash = "c54a9b5907d160018a1d61ab9ba4c8867fd19aa4fe89721ca19e5e6ee92dcd83"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
@@ -98,11 +103,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
-metafile = true
-
-[[files]]
-file = "mods/fabricproxy-lite.pw.toml"
-hash = "2e505480c06836448dfe277bdf93d184ca1aca821291574ddd3fccfe9f0ca387"
 metafile = true
 
 [[files]]
