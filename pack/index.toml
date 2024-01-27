@@ -81,11 +81,6 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/enderchests.pw.toml"
-hash = "3c20ab637590cb3b34132ab095d260cce7672938a6e298d541ec490292fd442d"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
@@ -208,16 +203,6 @@ metafile = true
 [[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "1cc8781b7c9b2fe9a7a3b9ab2ae6742374a007fc075c865827f97ece36f2919d"
-metafile = true
-
-[[files]]
-file = "mods/shetiphiancore.pw.toml"
-hash = "dcb97552f92c7b5c6fb6a8f403617bf30336829b482627fa2f3abeaf8bfb86e6"
-metafile = true
-
-[[files]]
-file = "mods/simple-pipes.pw.toml"
-hash = "982469e3629a7fc474a2b8c555b96879e8f5ea8a43d69b61c35b0d5e045ee11d"
 metafile = true
 
 [[files]]
