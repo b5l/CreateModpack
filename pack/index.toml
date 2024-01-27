@@ -241,6 +241,11 @@ hash = "d3f43c1b4ceee76f41e0033884cf56a311d5150b99fb95187df4a4e85ac91041"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "615c4d880d5d5d34be5b88ecff4b0bf00f1df24b71edf26a98ed0c772b946b34"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "a7f4c9db27e6d88dff443299ba7b04418f17a60316678b14719c767194b43ff3"
 metafile = true
