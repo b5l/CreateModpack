@@ -6,6 +6,11 @@ hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
 metafile = true
@@ -126,11 +131,6 @@ hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "3e1a381807b8bfe1abb6be6b043b64d9426097bb4ea16c6aa956f6a151f5c72e"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -193,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "73fa0f7015f038379155c47431a2be5c33ca4871da9f5d1c9f9499868fc13c53"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
 metafile = true
 
 [[files]]
