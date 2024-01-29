@@ -31,6 +31,11 @@ hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "d461111e3da5e79b84cfaaa6303a3f48588192527b6b6b62816c4698f9f8701d"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "c0a9f74591d0a2ea22da7775d167c00c877959a69d6ef51d6f78ce52d4c896ae"
 metafile = true
@@ -66,6 +71,16 @@ hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
 metafile = true
 
 [[files]]
+file = "mods/create-utilities.pw.toml"
+hash = "ee71f054700c411558f83d0651c54ce872e30395bf3fed28f769ea125a80415b"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
+metafile = true
+
+[[files]]
 file = "mods/creative-one-punch.pw.toml"
 hash = "c652c1c3deaea4a1c9fcf0331d84e5e2281d38f52da488effdc8fdb833ff33c3"
 metafile = true
@@ -73,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "3fa7edc6717f0509c9fb82eb29adaf08ffbba6f733becb0a4085d71e1e43eb01"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "037876c8c736feeb635e957a53464c26cadbde4820c97c000ec69fb72282f095"
 metafile = true
 
 [[files]]
@@ -151,6 +171,21 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "17abe74fad17a8ad23797548cd53f3ef1b1abbbf9133f03c1bac359f3939ff27"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "aca145c5044f2ad8829d0b1ac60f9850ee2d6e1e890ead07f59e94a721b46d55"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "0d1eaff3bdc64bcf01f9d22d52c2c666e6697d4112c76c2204d9101fdece839d"
+metafile = true
+
+[[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "ff7f9a78ddd22c15bce7423ace021b91fec68e0eb3e323cc84116b47deca8e93"
 metafile = true
@@ -191,6 +226,11 @@ hash = "f27ad5ca187c5dc5bb410a21eebc10ae03e65e58ceb0e2981f5dafac350c6b07"
 metafile = true
 
 [[files]]
+file = "mods/psychedelicraft.pw.toml"
+hash = "a32ddf99b38e8b8e02c0a8b908ddb4693501451b171cd042f53fb577d122d53a"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "73fa0f7015f038379155c47431a2be5c33ca4871da9f5d1c9f9499868fc13c53"
 metafile = true
@@ -203,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "1cc8781b7c9b2fe9a7a3b9ab2ae6742374a007fc075c865827f97ece36f2919d"
+metafile = true
+
+[[files]]
+file = "mods/simple-pipes.pw.toml"
+hash = "982469e3629a7fc474a2b8c555b96879e8f5ea8a43d69b61c35b0d5e045ee11d"
 metafile = true
 
 [[files]]

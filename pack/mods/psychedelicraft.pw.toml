@@ -1,0 +1,7 @@
+name = "Psychedelicraft"
+filename = "Psychedelicraft-Mod-Fabric-1.20.1.jar"
+
+[download]
+url = "https://github.com/b5l/CreateModpack/raw/main/mods/Psychedelicraft-Mod-Fabric-1.20.1.jar"
+hash-format = "sha1"
+hash = "8eca4cd7c171d9e8a59bf10b34e0ebb2ae1e2285"
