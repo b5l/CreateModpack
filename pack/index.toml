@@ -226,6 +226,11 @@ hash = "f27ad5ca187c5dc5bb410a21eebc10ae03e65e58ceb0e2981f5dafac350c6b07"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "f021bc3633c4730b9e487c8e4cb566e438c3c90722e89f52ca28e72c2eb5a6d5"
+metafile = true
+
+[[files]]
 file = "mods/psychedelicraft.pw.toml"
 hash = "a32ddf99b38e8b8e02c0a8b908ddb4693501451b171cd042f53fb577d122d53a"
 metafile = true
