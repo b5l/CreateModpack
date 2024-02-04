@@ -121,11 +121,6 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "b731afc1d2cd5eaf1dfd13e4cb0488dcc1df105fb436019289bfd8350ea74b76"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -208,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "0a42eb060173bf1994e480d160de17d8a61af01758fc1c6b70f9a42dba75d61b"
+metafile = true
+
+[[files]]
+file = "mods/multiworld.pw.toml"
+hash = "a797d5486a3a7e730f9890e991a519038f5105aabc9862fdad0e704ddab78575"
 metafile = true
 
 [[files]]
