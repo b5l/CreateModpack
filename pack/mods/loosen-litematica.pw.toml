@@ -1,0 +1,13 @@
+name = "Loosen Litematica"
+filename = "loose-litematica-0.1.0+build20230909.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/300p0LQz/versions/PnfmSKna/loose-litematica-0.1.0%2Bbuild20230909.jar"
+hash-format = "sha1"
+hash = "9e6aec5e8814107e1ed46c7c8d0a5c70dcfb0a07"
+
+[update]
+[update.modrinth]
+mod-id = "300p0LQz"
+version = "PnfmSKna"

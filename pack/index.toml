@@ -181,8 +181,23 @@ hash = "a6454ef50734986eb1f1540b1ec56a910a8f728532769b65665f7c11af420b29"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
+metafile = true
+
+[[files]]
+file = "mods/litemoretica.pw.toml"
+hash = "4123209e4ee83b99cc1bd7c474d0045879cb0b4ddd0965991557a61851e79972"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/loosen-litematica.pw.toml"
+hash = "9d316b2dfea97a759e82236e6cadba2c0b2ea92513d804d9bcb7e6dd9945eded"
 metafile = true
 
 [[files]]
@@ -208,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "4c3dc1c93ec5be222f504f66c251fbb17a12f1bba04d59b1b34d959ee9d04e30"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
 metafile = true
 
 [[files]]
@@ -293,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "1c016f800988efb78998ad081203e9789f720d9ae81826fd8c191eecdcc15ad3"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "1bcfedea8c71c58c75646e0afd6211a95df4b4d0e545c28585f6aa3647f7158c"
 metafile = true
 
 [[files]]
