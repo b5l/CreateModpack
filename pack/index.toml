@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/afkplus.pw.toml"
+hash = "84367ce64e3943a0507b5effcdec8fb111a4bb542170c64b154bf79c6b75e663"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "f021bc3633c4730b9e487c8e4cb566e438c3c90722e89f52ca28e72c2eb5a6d5"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "6043836ca3c9b4f781ee91f07dc0277fbd1d465008f89b5f04c83584e66a7b0d"
 metafile = true
 
 [[files]]
