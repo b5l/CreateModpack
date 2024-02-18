@@ -41,11 +41,6 @@ hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "d461111e3da5e79b84cfaaa6303a3f48588192527b6b6b62816c4698f9f8701d"
-metafile = true
-
-[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "c0a9f74591d0a2ea22da7775d167c00c877959a69d6ef51d6f78ce52d4c896ae"
 metafile = true
@@ -281,11 +276,6 @@ hash = "6043836ca3c9b4f781ee91f07dc0277fbd1d465008f89b5f04c83584e66a7b0d"
 metafile = true
 
 [[files]]
-file = "mods/psychedelicraft.pw.toml"
-hash = "a32ddf99b38e8b8e02c0a8b908ddb4693501451b171cd042f53fb577d122d53a"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "73fa0f7015f038379155c47431a2be5c33ca4871da9f5d1c9f9499868fc13c53"
 metafile = true
@@ -298,11 +288,6 @@ metafile = true
 [[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "1cc8781b7c9b2fe9a7a3b9ab2ae6742374a007fc075c865827f97ece36f2919d"
-metafile = true
-
-[[files]]
-file = "mods/simple-pipes.pw.toml"
-hash = "982469e3629a7fc474a2b8c555b96879e8f5ea8a43d69b61c35b0d5e045ee11d"
 metafile = true
 
 [[files]]
