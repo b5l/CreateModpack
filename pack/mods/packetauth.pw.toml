@@ -1,0 +1,13 @@
+name = "Packet Auth"
+filename = "PacketAuth-FabricQuilt-1.6.4_1.20-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7d6mfXL5/versions/SG4SxM1r/PacketAuth-FabricQuilt-1.6.4_1.20-1.20.1.jar"
+hash-format = "sha1"
+hash = "92ade86ab637e16cdff10a3285d110517a9b8a3e"
+
+[update]
+[update.modrinth]
+mod-id = "7d6mfXL5"
+version = "SG4SxM1r"

@@ -271,6 +271,11 @@ hash = "f021bc3633c4730b9e487c8e4cb566e438c3c90722e89f52ca28e72c2eb5a6d5"
 metafile = true
 
 [[files]]
+file = "mods/packetauth.pw.toml"
+hash = "e352019db6238a52411d200eb4ac336e2698984ca01799af3dd5caac797c0f77"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "6043836ca3c9b4f781ee91f07dc0277fbd1d465008f89b5f04c83584e66a7b0d"
 metafile = true
