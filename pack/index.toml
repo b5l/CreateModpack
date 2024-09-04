@@ -116,6 +116,11 @@ hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
 metafile = true
 
 [[files]]
+file = "mods/easyauth.pw.toml"
+hash = "a4a87e7580a1651f429af181e1be40a5b3c4b1969f80288c5199dcde91592ee7"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
@@ -268,11 +273,6 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "f021bc3633c4730b9e487c8e4cb566e438c3c90722e89f52ca28e72c2eb5a6d5"
-metafile = true
-
-[[files]]
-file = "mods/packetauth.pw.toml"
-hash = "e352019db6238a52411d200eb4ac336e2698984ca01799af3dd5caac797c0f77"
 metafile = true
 
 [[files]]
