@@ -236,6 +236,11 @@ hash = "f27ad5ca187c5dc5bb410a21eebc10ae03e65e58ceb0e2981f5dafac350c6b07"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "f8879a5a06411d47d27dc543c718307afb95286a0b91a593692b5a5033ade53d"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "f021bc3633c4730b9e487c8e4cb566e438c3c90722e89f52ca28e72c2eb5a6d5"
 metafile = true
