@@ -171,6 +171,11 @@ hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "fbf8ed68da06af1014e46752b0a925c01b87dcd2c7c98d3c110d907ab7900220"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "9cc9633e5617b3b83f2aaa0d2206948e5d69d0dc7ae500406a317be958ac65c3"
 metafile = true
 
 [[files]]
