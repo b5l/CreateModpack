@@ -51,6 +51,11 @@ hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "010f089bf2a87439189f28c775a43c4b99950ab3d4358ff49b43804a057b2676"
+metafile = true
+
+[[files]]
 file = "mods/craftsaddles.pw.toml"
 hash = "e47946582e97755481fc399aaf193a118b07d9f7805072485b771b4862683931"
 metafile = true
