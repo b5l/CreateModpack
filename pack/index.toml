@@ -121,11 +121,6 @@ hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
 metafile = true
 
 [[files]]
-file = "mods/easyauth.pw.toml"
-hash = "a4a87e7580a1651f429af181e1be40a5b3c4b1969f80288c5199dcde91592ee7"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
