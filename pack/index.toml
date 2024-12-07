@@ -226,6 +226,11 @@ hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
 metafile = true
 
 [[files]]
+file = "mods/mine-spawners.pw.toml"
+hash = "ca5b9437059b1a51b2838967a306b8bfd0eec2c63d7e298a0864ae2eb813e400"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
