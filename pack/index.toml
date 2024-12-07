@@ -56,6 +56,11 @@ hash = "010f089bf2a87439189f28c775a43c4b99950ab3d4358ff49b43804a057b2676"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
+metafile = true
+
+[[files]]
 file = "mods/craftsaddles.pw.toml"
 hash = "e47946582e97755481fc399aaf193a118b07d9f7805072485b771b4862683931"
 metafile = true
@@ -398,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "2a90807ed3a4933463a8fe3590b04a0be73419faa29cd156528a53ab0407282d"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "d7651d3c0b4223a2df4af7d72636e7bf80c558dc351065c7431db4147c215ab4"
 metafile = true
 
 [[files]]
