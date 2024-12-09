@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
@@ -268,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "f021bc3633c4730b9e487c8e4cb566e438c3c90722e89f52ca28e72c2eb5a6d5"
+metafile = true
+
+[[files]]
+file = "mods/offlineskins-fabric.pw.toml"
+hash = "505f4500bb81a4c2b2926d2c9994157e905c2ba403e2909f79756ecbac22347a"
 metafile = true
 
 [[files]]
