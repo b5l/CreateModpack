@@ -11,6 +11,11 @@ hash = "44b701cd39246e1699d49278cb55459d3b80768e69c56fa4c36bb8dd03605868"
 metafile = true
 
 [[files]]
+file = "mods/animationoverhaul.pw.toml"
+hash = "398ca3e146b3be50656f80542d6b9dd95b9becb065624e6dcc49d798712c5f99"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
 metafile = true
@@ -28,6 +33,16 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
+metafile = true
+
+[[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "a11b70319c12adadc8444b3883abff9e1bb38278e9c61b79e2988594efeed89c"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "9f92d063b29316733455bcf5ca2c0f77f31a479d9c0ceb8c3557da177691131c"
 metafile = true
 
 [[files]]
@@ -107,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/creative-one-punch.pw.toml"
-hash = "c652c1c3deaea4a1c9fcf0331d84e5e2281d38f52da488effdc8fdb833ff33c3"
+hash = "7fa624f2039cca486e81032f26e4f10c11208c9b6965b7a2d6022abb6907ce22"
 metafile = true
 
 [[files]]
@@ -306,6 +321,11 @@ hash = "cdc3b40078ef395c5b4863a74dd58f6c3cd1a4f5eeea7e3782318ef28d99438c"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "faefe3ad13a2d7315292919de7baca1abaac6f74be7cf3dc57a0deea31878cf5"
 metafile = true
@@ -343,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "6043836ca3c9b4f781ee91f07dc0277fbd1d465008f89b5f04c83584e66a7b0d"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
 
 [[files]]
@@ -392,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/superflat-world-no-slimes.pw.toml"
-hash = "2ca0a7245e1a5b47a742f11a7f8566c74822f586beedf0d72859715203e49ca5"
+hash = "1dbd361f869ba350c8e5709f9a69e5415e60c82e291bd115934c674321a27470"
 metafile = true
 
 [[files]]
