@@ -416,11 +416,6 @@ hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
 metafile = true
 
 [[files]]
-file = "mods/superflat-world-no-slimes.pw.toml"
-hash = "1dbd361f869ba350c8e5709f9a69e5415e60c82e291bd115934c674321a27470"
-metafile = true
-
-[[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "1bcfedea8c71c58c75646e0afd6211a95df4b4d0e545c28585f6aa3647f7158c"
 metafile = true
