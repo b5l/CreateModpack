@@ -46,6 +46,11 @@ hash = "9f92d063b29316733455bcf5ca2c0f77f31a479d9c0ceb8c3557da177691131c"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "a1e024094c28068c99a6da1c5867cbd4e66a315718039659bfa533a138762d9e"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "c4ee3c1cd7ce65505a5aa2b2e66ed816dfde972e8af736e211314ba66d40a01a"
 metafile = true
@@ -63,6 +68,16 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
+metafile = true
+
+[[files]]
+file = "mods/chat-impressive-animation.pw.toml"
+hash = "a1b606c8fe79d6aca378b3e9cccccfc31e4f1a6b3aef84b8c23527c2582ca239"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "615f493a610e1c1c66c558e5a5c8943b95c639fffe50abf6c605784ef6a0cade"
 metafile = true
 
 [[files]]
@@ -241,6 +256,16 @@ hash = "fbf8ed68da06af1014e46752b0a925c01b87dcd2c7c98d3c110d907ab7900220"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "36a2bb1e5126cfd8f54ec2022c0d2192f57538f3e85af1d591fd20be11a813eb"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "66507b7596305e8c6476d84901b2961cea1f198c8d06b6e85391e2a6f4a2de85"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -331,6 +356,11 @@ hash = "faefe3ad13a2d7315292919de7baca1abaac6f74be7cf3dc57a0deea31878cf5"
 metafile = true
 
 [[files]]
+file = "mods/nimble.pw.toml"
+hash = "64e8cb9cf4d1dd38e735ba93b38845dea8282dc5aa945add2b40b2d5b2c34b07"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "6e8f54238b405650aea8f045b138b86d13311fabe8bc0bbebd35f3844c9148e4"
 metafile = true
@@ -358,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/our-villager-discounts.pw.toml"
 hash = "d4468887af2c277449fecba6323f41f2a911258617df59b1d9f1ab12ead3d6d8"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "f0e65744b24c6472047c1141e3970c87e6cdb822ac0b3b9e68f813c185340fbd"
 metafile = true
 
 [[files]]
@@ -403,6 +438,16 @@ metafile = true
 [[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "1cc8781b7c9b2fe9a7a3b9ab2ae6742374a007fc075c865827f97ece36f2919d"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scrolling-refurbished.pw.toml"
+hash = "5053fb40a95bcde774b31d8f6aa19782ec3a8635abf7f1028e759f7c343e64ba"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "95a81f1a568965dcad18b754354581975ce5c9491b21a6276f107561fcc75c13"
 metafile = true
 
 [[files]]
@@ -472,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "df2d7a1088e052e070a0b21b7d64e49ff3efcebf206b3a4fc95403ff8a0dba04"
+hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
 metafile = true
 
 [[files]]
@@ -513,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "2a90807ed3a4933463a8fe3590b04a0be73419faa29cd156528a53ab0407282d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-menu-tweaks.pw.toml"
+hash = "318069e00a76ad4ff9e65daf829f43b03f0c9495046ba2f6f80dce4cb442c9d8"
 metafile = true
 
 [[files]]
