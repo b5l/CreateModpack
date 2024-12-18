@@ -1,13 +1,14 @@
 name = "More Chests"
-filename = "morechests-2.0.0.jar"
+filename = "morechests-fabric-1.20.1-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Du77FavA/versions/AspHKe1p/morechests-2.0.0.jar"
-hash-format = "sha512"
-hash = "6751a2f7c718a230fbd23625dd765aabb39ff546129fa3b4dc76db663cd2838e349e79dda63913035e1a034c2dbb528d30c88d4048fa50a9a433933fb22f5be7"
+url = "https://cdn.modrinth.com/data/Du77FavA/versions/EkSpjzMQ/morechests-fabric-1.20.1-1.0.3.jar"
+hash-format = "sha1"
+hash = "a863d11d0b7f91a3279d6cdeb7ec8973c707b560"
 
 [update]
 [update.modrinth]
 mod-id = "Du77FavA"
-version = "AspHKe1p"
+version = "EkSpjzMQ"
+
