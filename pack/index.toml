@@ -591,6 +591,11 @@ hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-style-christmas-pack.pw.toml"
+hash = "f23679100efad2a2f46f91dde9a67353ef7494af177eb5e81405fc6224b9c768"
+metafile = true
+
+[[files]]
 file = "resourcepacks/icon-xaeros.pw.toml"
 hash = "865f6a441ecc6d625cf36ae37f0239e0a6eace89451748847ce7c1a6847782b5"
 metafile = true
