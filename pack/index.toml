@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "ab4e9328270178b84b5dc8cc59f903a2ed3d155b1fb051e89849c4967654b734"
+hash = "3568283760bee507657ba5eb8588a79b71782d02a9c8e597150bc7cc355fb5b7"
 metafile = true
 
 [[files]]
